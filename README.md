@@ -87,7 +87,7 @@ Dataset after cleaning and preparation using Power Query.
 
 
 
-![Cleaned Dataset](project_images1/clean_data.png)
+![Cleaned Dataset](project_images1/clean_data.jpg)
 
 
 
