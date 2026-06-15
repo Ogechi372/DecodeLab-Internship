@@ -188,12 +188,12 @@ Detection of outlier orders based on total price.
 
 ---
 
-## Revenue by Payment Method
-Revenue breakdown across different payment methods.
+## Revenue by Products 
+Revenue breakdown across different product categories.
 
 
 
-![Revenue by Payment Method](project_images2/revenue_by_payment.png)
+![Revenue by Products](project_images2/revenue_by_product.png)
 
 
 
