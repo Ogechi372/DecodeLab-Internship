@@ -177,17 +177,6 @@ Distribution of order statuses across the dataset.
 
 ---
 
-## Outliers
-Detection of outlier orders based on total price.
-
-
-
-![Outliers](project_images2/outliers.png)
-
-
-
----
-
 ## Revenue by Products 
 Revenue breakdown across different product categories.
 
@@ -201,7 +190,7 @@ Revenue breakdown across different product categories.
 
 ## Quartile Analysis
 Quartile calculations used to identify data distribution 
-and outliers.
+and outliers. Outliers were detected based on total price 
 
 
 
