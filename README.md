@@ -218,6 +218,14 @@ and improved understanding of the dataset through statistical
 summaries and trend analysis.
 
 
+# 🗄️ DecodeLabs Internship — Project 3: SQL Data Analysis
+
+
+---
+
+## 📌 Project Overview
+
+This project involves using **SQL (Structured Query Language)** to extract meaningful insights from a sales dataset. All queries were written and executed in **DB Browser for SQLite**.
 
 
 
