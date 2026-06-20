@@ -218,7 +218,7 @@ and improved understanding of the dataset through statistical
 summaries and trend analysis.
 
 
-# 🗄️ DecodeLabs Internship — Project 3: SQL Data Analysis
+# Project 3: SQL Data Analysis
 
 
 ---
@@ -227,7 +227,21 @@ summaries and trend analysis.
 
 This project involves using **SQL (Structured Query Language)** to extract meaningful insights from a sales dataset. All queries were written and executed in **DB Browser for SQLite**.
 
+Detail | Info |
 
+ **Project** | Project 3 — SQL Data Analysis 
+ 
+**Tool** | DB Browser for SQLite v3.13.1                        
+ 
+**Database** | DecodeLab_Project3.db 
+ 
+**Table** | Sales_Orders 
+ 
+**Total Rows** | 1,200 
+ 
+**Total Columns** | 14 
+ 
+**Date Range** | January 2023 – June 2025
 
 ---
 
