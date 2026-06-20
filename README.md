@@ -253,5 +253,78 @@ Detail | Info |
 - Perform aggregations using **COUNT**, **SUM**, and **AVG**
 - Use **GROUP BY** to summarize data by category
 
+
+## 📂 Dataset Description
+
+The dataset is a **Sales Orders** table containing e-commerce transaction records with the following columns:
+
+| Column | Description |
+|--------|-------------|
+| OrderID | Unique order identifier |
+| Date | Date of order |
+| CustomerID | Unique customer identifier |
+| Product | Product purchased |
+| Quantity | Number of items ordered |
+| Unit Price | Price per unit |
+| Shipping Address | Delivery address |
+| Payment Method | Method of payment used |
+| Order Status | Current status of order |
+| Tracking Number | Shipment tracking number |
+| Items-In-Cart | Number of items in cart |
+| Coupon Code | Discount coupon applied |
+| Referral Source | How customer found the store |
+| Total Price | Final order value |
+
+---
+
+## 🛠️ Tools Used
+
+- **DB Browser for SQLite v3.13.1** — SQL query editor and database management
+- **Microsoft Excel** — Data cleaning and preparation (Projects 1 & 2)
+- **SQLite** — Database engine
+
+---
+
+## 📝 SQL Queries
+
+### Query 1 — View All Data (SELECT *)
+```sql
+SELECT * FROM Sales_Orders LIMIT 10;
+```
+**Purpose:** Preview the first 10 rows of the dataset to understand its structure.
+
+---
+
+### Query 2 — Select Specific Columns
+```sql
+SELECT OrderID, Product, "Total Price"
+FROM Sales_Orders
+LIMIT 10;
+```
+**Purpose:** Retrieve only relevant columns instead of all data.
+
+---
+
+### Query 3 — Filter by Product (WHERE)
+```sql
+SELECT * FROM Sales_Orders
+WHERE Product = 'Chair';
+```
+**Purpose:** Filter all orders where the product is a Chair.
+**Result:** 178 rows returned ✅
+
+---
+
+### Query 4 — Top 10 Highest Orders (ORDER BY)
+```sql
+SELECT OrderID, Product, "Total Price"
+FROM Sales_Orders
+ORDER BY "Total Price" DESC
+LIMIT 10;
+```
+**Purpose:** Find the 10 highest value orders in the dataset.
+**Result:** Orders ranged from ₦3,390.95
+
+
 ## Author
 Umanta — Data Analytics Intern
