@@ -245,5 +245,13 @@ Detail | Info |
 
 ---
 
+## 🎯 Project Goals
+
+- Write **SELECT** queries to retrieve data
+- Use **WHERE** to filter records
+- Apply **ORDER BY** to sort results
+- Perform aggregations using **COUNT**, **SUM**, and **AVG**
+- Use **GROUP BY** to summarize data by category
+
 ## Author
 Umanta — Data Analytics Intern
