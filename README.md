@@ -323,7 +323,7 @@ ORDER BY "Total Price" DESC
 LIMIT 10;
 ```
 **Purpose:** Find the 10 highest value orders in the dataset.
-**Result:** Orders ranged from ₦3,390.95
+**Result:** Orders ranged from ₦3,390.95 to #3,456.40
 
 
 ## Author
