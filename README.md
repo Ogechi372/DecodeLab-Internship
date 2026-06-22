@@ -429,6 +429,124 @@ ORDER BY AVG("Total Price") DESC;
 5. **Lowest Revenue Product** — Phone generates the least revenue (₦151,722.39)
 6. **High Value Orders** — Top 10 orders all exceeded ₦3,300 — identified as legitimate large purchases
 
+# Data Visualization & Storytelling (Project 4)
+
+## Overview
+This project focuses on transforming raw sales data into 
+boardroom-ready visual insights using Microsoft Power BI, 
+as part of my DecodeLabs internship. The goal is to tell 
+a clear data story that drives business decisions.
+
+## Project Description
+Using the cleaned sales dataset from Project 1, five 
+interactive visualizations were created to communicate 
+key business insights through data storytelling.
+
+## Objectives
+- Transform raw data into clear visual narratives
+- Choose the right chart type for each business question
+- Write action titles that state the conclusion
+- Build a complete sales performance dashboard
+
+## Tools Used
+- Microsoft Power BI Desktop
+
+## Dataset Information
+Cleaned sales dataset containing 1,200 rows of order 
+records including products, payment methods, order 
+status, referral sources, and revenue figures.
+
+---
+
+## Dashboard Overview
+
+
+
+![Dashboard](dashboard.png)
+
+
+
+---
+
+## Chart 1: Revenue by Product
+Chair and Printer Lead Revenue, Generating ₦195K Each
+
+
+
+![Revenue by Product](revenue_by_product.png)
+
+
+
+---
+
+## Chart 2: Order Status Distribution
+1 in 5 Orders is Cancelled — Revenue Leakage Alert
+
+
+
+![Order Status](order_status.png)
+
+
+
+---
+
+## Chart 3: Monthly Revenue Trend
+Revenue Fluctuates Monthly With No Clear Growth 
+Trend — Seasonal Strategy Needed
+
+
+
+![Monthly Revenue](monthly_revenue.png)
+
+
+
+---
+
+## Chart 4: Payment Method Analysis
+Credit Card Customers Spend the Most on Average 
+at ₦1,127
+
+
+
+![Payment Method](payment_method.png)
+
+
+
+---
+
+## Chart 5: Referral Source Performance
+Instagram Drives the Highest Revenue at ₦275K
+
+
+
+![Referral Source](referral_source.png)
+
+
+
+---
+
+## Key Insights
+- Chair and Printer generate the highest revenue at ₦195K each
+- 1 in 5 orders is cancelled — a major revenue leakage concern
+- Revenue fluctuates monthly with no clear growth trend
+- Credit Card customers have the highest average spend at ₦1,127
+- Instagram is the most effective referral source at ₦275K
+
+## Challenges Faced
+- Choosing the right chart type for each business question
+- Writing action titles that clearly communicate insights
+- Arranging all charts into a clean dashboard layout
+
+## Outcome
+A complete Power BI sales dashboard was built that 
+communicates five key business insights through 
+clear visual storytelling, suitable for executive 
+presentation.
+
+---
+
+## Author
+Umanta — Data Analytics Intern
 
 
 ## Author
