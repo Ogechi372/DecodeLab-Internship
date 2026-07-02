@@ -370,11 +370,17 @@ ORDER BY Revenue DESC;
 | Product | Revenue (₦) 
 
  Chair | 195,620.11 
+
  Printer | 195,612.61 
+
  Laptop | 192,126.56 
+
  Tablet | 186,568.95 
+
  Monitor | 175,651.41 
+
  Desk | 167,459.93 
+
  Phone | 151,722.39 
 
 ---
@@ -392,9 +398,13 @@ ORDER BY Count DESC;
  Order Status | Count 
 
  Cancelled | 250 
+
  Returned | 247 
+
  Pending | 237 
+
  Shipped | 235 
+
  Delivered | 231 
 
 ---
@@ -413,9 +423,13 @@ ORDER BY AVG("Total Price") DESC;
 | Payment Method | Avg Spend (₦) 
 
  Credit Card | 1,127.55 |
+
  Gift Card | 1,070.97 |
+
  Cash | 1,056.04 |
+
  Online | 1,017.22 |
+
  Debit Card | 1,001.56 |
 
 ---
@@ -423,10 +437,15 @@ ORDER BY AVG("Total Price") DESC;
 ## 📊 Key Findings
 
 1. **Total Revenue** — ₦1,264,761.96 generated across all 1,200 orders
+
 2. **Top Product** — Chair and Printer nearly tied at the top with ~₦195,000 each
+
 3. **Cancellation Alert** — Cancelled orders (250) is the highest status category — more than Delivered (231). This needs business attention
+
 4. **Best Payment Method** — Credit Card users spend the most on average (₦1,127.55 per order)
+
 5. **Lowest Revenue Product** — Phone generates the least revenue (₦151,722.39)
+
 6. **High Value Orders** — Top 10 orders all exceeded ₦3,300 — identified as legitimate large purchases
 
 # Data Visualization & Storytelling (Project 4)
