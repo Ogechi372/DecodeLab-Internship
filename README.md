@@ -527,9 +527,13 @@ Instagram Drives the Highest Revenue at ₦275K
 
 ## Key Insights
 - Chair and Printer generate the highest revenue at ₦195K each
+
 - 1 in 5 orders is cancelled — a major revenue leakage concern
+
 - Revenue fluctuates monthly with no clear growth trend
+
 - Credit Card customers have the highest average spend at ₦1,127
+
 - Instagram is the most effective referral source at ₦275K
 
 ## Challenges Faced
